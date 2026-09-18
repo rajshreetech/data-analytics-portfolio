@@ -4,4 +4,5 @@ This repository contains my projects and practice work in:
 - Excel
 - SQL
 - Power BI
+- Python
 - Data Analytics
